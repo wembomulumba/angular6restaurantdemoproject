@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Restaurant Application';
+  address = 'Dallas, Texas, USA';
+  telephone = 89236627
+  pin = 2342
+  
+
 }
